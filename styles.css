@@ -1,0 +1,59 @@
+/*
+Effect typography CSS3 Textured
+*/
+body{
+    background: #eaeaea;
+    width: 960px;
+    margin: 0 auto;
+    padding:0 auto;
+}
+
+.textured{
+    background: #000;
+    width: 700px;
+}
+
+.textured h1{
+    font: bold 1000%/100% "Helvetica", sans-serif;
+    position: relative;
+    margin: 0;
+    color: #fff;
+    letter-spacing: -6px;
+}
+
+.textured h1 span{
+    /*Ici on charge le PNG24*/
+    background: url(img/textured.png);
+    position: absolute;
+    display: block;
+    width: 700px;
+    height: 160px;
+}
+
+/*
+Effect typography shading CSS3 
+*/
+
+h2{
+    font-size:150px;
+    margin: 0;
+    padding: 0;
+}
+.embossed {
+    background-color: #666666;
+    -webkit-background-clip: text;
+    -moz-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    text-shadow: 3px 3px 3px rgba(255, 255, 255, 0.5)
+}
+
+/*
+Effect typography CSS3 Blur
+*/
+.blurred{
+    font-family: Arial;
+    font-size:200px;
+    color: transparent;
+    text-shadow: 0px 0px 20px rgba(0,0,0,0.7);
+}
