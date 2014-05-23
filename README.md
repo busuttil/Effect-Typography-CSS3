@@ -16,4 +16,4 @@ Compatibilité :
 
 ## Rendu
 
-http://busuttil.github.io/E-mailling-Busuttil-Nicolas/
+http://busuttil.nicolas.pagesperso-orange.fr/booknicolas/effect-typo-css3/index.html
